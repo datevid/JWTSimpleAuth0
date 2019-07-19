@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1;
+package com.mycompany.mavenproject2;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;
